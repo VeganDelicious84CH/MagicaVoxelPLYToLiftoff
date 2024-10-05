@@ -7,6 +7,8 @@ howto
 3. Run the PlyToLiftoff.exe or the PlyToLiftoff.py via Python
 4. Output file is inside a folder (with a random name) and should go into:
    Liftioff's "tracks" folder (programs(86)>steam>>steamapps>common>liftoff>tracks)
+   
+In case you want to draw a MagicaVoxel object from ground up I added Liftoffs 5-colour-palette. However due to my problem with recognizing colours they might be a bit off.
 
 what it does
 - 1 block of 1x1x1 size in Liftoff is represented by 1 block in MagicaVoxel. 
@@ -19,5 +21,5 @@ issues / limitations:
 - Other objects than the 1x1 blocks are not possible
 - I have to clean up the source code a bit for better readability if you want to improve or adapt it.
 - This project was originally done for converting Magica to Minecraft (that one is on planetminecraft), then I had the idea to adapt it to Liftoff because Liftoff's editor also works using a coordinate system which is an unobfuscated xml.
-
-I mad
+  
+![coversmall](https://github.com/user-attachments/assets/c8f572f7-7fd8-4d75-9e75-04adf8e1974d)
