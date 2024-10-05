@@ -1,0 +1,5 @@
+56 84 132 DrawingBoardCube1mx1m01
+85 143 211 DrawingBoardCube1mx1m02
+41 44 81 DrawingBoardCube1mx1m03
+233 158 81 DrawingBoardCube1mx1m04
+172 180 195 DrawingBoardCube1mx1m05
