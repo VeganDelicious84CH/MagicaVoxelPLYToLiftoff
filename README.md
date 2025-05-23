@@ -1,5 +1,6 @@
 # MagicaVoxelPLYToLiftoff
 converter to get (smaller) Magica Voxel Objects into the Liftoff Editor (the FPV Sim by LuGus Studios).
+Please use Magicavoxel 0.98 if you get a strange error. Newer versions like 0.99.6 or 0.99.7 sadly don't work. Thanks for youtube user KeaiduoUsually for finding that out.
 
 howto
 1. In MagicaVoxel: under "export > point" export your model as a .PLY
